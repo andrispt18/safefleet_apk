@@ -1,0 +1,8 @@
+{
+  "name": "SAFEFLEET AI",
+  "description": "Driver drowsiness and cabin safety monitoring system with real-time facial metrics, cockpit HUD, and alert engine.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
